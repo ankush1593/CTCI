@@ -1,0 +1,1 @@
+Write functions to insert an element in a min heap and another one to extract the minimum element. (remove and return)
